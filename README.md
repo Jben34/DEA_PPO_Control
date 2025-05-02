@@ -37,7 +37,7 @@ This project investigates how **Reinforcement Learning**, particularly PPO, can 
 | Simulated Actuator| ~0.07       | N/A            | Good convergence, stable tracking                 |
 | Moving Platform   | 0.11        | 0.16           | Affected by oscillations and mass interactions    |
 | Cranium Setup     | 0.05        | 0.13           | Best results; stable and accurate tracking        |
-| PID (Baseline)    | 0.114       | 0.118          | RL is comparable without needing a model          |
+| PID (Baseline)    | 0.114       | 0.118          | RL is comparable without needing a hand-crafted model          |
 
 ---
 
