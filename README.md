@@ -4,6 +4,8 @@ This repository contains the report and code for a semester project at EPFL on *
 
 📄 [Download the project report (PDF)](Semester_Project_Report.pdf)
 
+If the GitHub preview does not work, please download the raw file to view it.
+
 ---
 
 ## 📌 Overview
